@@ -8,6 +8,18 @@ def load_options(fname='options.txt'):
     return [d.strip() for d in lines]
 
 
+def write_readme(top, ftext='readme_text.md'):
+    with open(ftext) as f:
+        text = f.read()
+
+    with open('readme.md', 'w') as f:
+        f.write(text)
+        f.write('\n')
+
+        for i, r in enumerate(top):
+            f.write('{}. - {}\n'.format(i + 1, r['player']))
+
+
 def load_lists(folder='rankings'):
     lists = []
 
