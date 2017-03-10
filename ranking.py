@@ -30,7 +30,7 @@ def lists_to_matches(lists):
 def ranking(matches, start=1000):
     players = {}
 
-    for match in matches:
+    for match in matches * 50:
         winner = match.winner
         loser = match.loser
 

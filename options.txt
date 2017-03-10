@@ -145,7 +145,6 @@ Kingsman The Secret Service (2015) tt2802144
 Kiss Kiss Bang Bang (2005) tt0373469
 Kung Fu Panda (2008) tt0441773
 Labyrinth (1986) tt0091369
-Lady and the Tramp (1955) tt0048280
 Ladyhawke (1985) tt0089457
 Lara Croft Tomb Raider (2001) tt0146316
 Layer Cake (2004) tt0375912
@@ -340,14 +339,12 @@ Toy Story 3 (2010) tt0435761
 Trading Places (1983) tt0086465
 Transformers (2007) tt0418279
 Transporter (2002) tt0293662
-Tremors (1990) tt0100814
 Tron (1982) tt0084827
 TRON Legacy (2010) tt1104001
 Tropic Thunder (2008) tt0942385
 True Grit (2010) tt1403865
 Tucker and Dale vs Evil (2010) tt1465522
 Twister (1996) tt0117998
-Unbreakable (2000) tt0217869
 Up (2009) tt1049413
 Up In The Air (2009) tt1193138
 Van Wilder (2002) tt0283111
@@ -355,7 +352,6 @@ V For Vendetta (2005) tt0434409
 WALL-E (2008) tt0910970
 WarGames (1983) tt0086567
 Watchmen (2009) tt0409459
-Waterworld (1995) tt0114898
 What We Do in the Shadows (2014) tt3416742
 When Harry Met Sally (1989) tt0098635
 Who Framed Roger Rabbit (1988) tt0096438
@@ -374,3 +370,11 @@ Zootopia (2016) tt2948356
 Big Hero 6 (2014) tt2245084
 Jack Reacher (2012) tt0790724
 Jack Reacher: Never Go Back (2016) tt3393786
+La La Land (2016) tt3783958
+Captain America: Civil War (2016) tt3498820
+Rogue One (2016) tt3748528
+Moonlight (2016) tt4975722
+Kubo and the Two Strings (2016) tt4302938
+Jackie (2016) tt1619029
+Hidden Figures (2016) tt4846340
+Star Trek Beyond (2016) tt2660888
