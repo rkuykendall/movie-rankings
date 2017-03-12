@@ -37,21 +37,21 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 30. Swiss Army Man (2016) tt4034354
 31. The Nice Guys (2016) tt3799694
 32. The Emperor's New Groove (2000) tt0120917
-33. The Princess Bride (1987) tt0093779
-34. Son of Rambow (2007) tt0845046
+33. Son of Rambow (2007) tt0845046
+34. The Princess Bride (1987) tt0093779
 35. Charlie Bartlett (2007) tt0423977
 36. 12 Angry Men (1957) tt0050083
 37. Special (2006) tt0479162
 38. Toy Story (1995) tt0114709
 39. 28 Days Later (2002) tt0289043
-40. Hot Fuzz (2007) tt0425112
-41. Thank You for Smoking (2005) tt0427944
+40. Thank You for Smoking (2005) tt0427944
+41. Hot Fuzz (2007) tt0425112
 42. Drive (2011) tt0780504
 43. Die Hard (1988) tt0095016
 44. Dogma (1999) tt0120655
 45. Mallrats (1995) tt0113749
-46. Real Genius (1985) tt0089886
-47. Godzilla (1998) tt0120685
+46. Godzilla (1998) tt0120685
+47. Real Genius (1985) tt0089886
 48. Scott Pilgrim vs The World (2010) tt0446029
 49. Men in Black (1997) tt0119654
 50. The Host (2006) tt1517260
@@ -59,10 +59,10 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 52. The Secret Life of Walter Mitty (2013) tt0359950
 53. Network (1976) tt0074958
 54. Zombieland (2009) tt1156398
-55. The Wackness (2008) tt1082886
-56. 10 Things I Hate About You (1999) tt0147800
-57. Tucker and Dale vs Evil (2010) tt1465522
-58. Indiana Jones 1 Raiders Of The Lost Ark (1981) tt0082971
+55. 10 Things I Hate About You (1999) tt0147800
+56. The Wackness (2008) tt1082886
+57. Indiana Jones 1 Raiders Of The Lost Ark (1981) tt0082971
+58. Tucker and Dale vs Evil (2010) tt1465522
 59. Up In The Air (2009) tt1193138
 60. Black Sheep (2006) tt0779982
 61. The World's End (2013) tt1213663
@@ -78,22 +78,22 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 71. Tangled (2010) tt0398286
 72. Clerks (1994) tt0109445
 73. Captain America Civil War (2016) tt3498820
-74. Edge of Tomorrow (2014) tt1631867
-75. The Monster Squad (1987) tt0093560
-76. The Muppets (2011) tt1204342
-77. 500 Days of Summer (2009) tt1022603
+74. The Monster Squad (1987) tt0093560
+75. The Muppets (2011) tt1204342
+76. 500 Days of Summer (2009) tt1022603
+77. The Goonies (1985) tt0089218
 78. La La Land (2016) tt3783958
 79. Star Wars Episode VII The Force Awakens (2015) tt2488496
-80. The Goonies (1985) tt0089218
-81. Monty Python and the Holy Grail (1974) tt0071853
-82. Hackers (1995) tt0113243
-83. Four Lions (2010) tt1341167
-84. Zootopia (2016) tt2948356
-85. Hell or High Water (2016) tt2582782
-86. Toy Story 3 (2010) tt0435761
-87. The Blues Brothers (1980) tt0080455
-88. WALL-E (2008) tt0910970
-89. My Cousin Vinny (1992) tt0104952
+80. My Cousin Vinny (1992) tt0104952
+81. Edge of Tomorrow (2014) tt1631867
+82. Monty Python and the Holy Grail (1974) tt0071853
+83. Hackers (1995) tt0113243
+84. Four Lions (2010) tt1341167
+85. Zootopia (2016) tt2948356
+86. Hell or High Water (2016) tt2582782
+87. Toy Story 3 (2010) tt0435761
+88. The Blues Brothers (1980) tt0080455
+89. WALL-E (2008) tt0910970
 90. Young Frankenstein (1974) tt0072431
 91. Galaxy Quest (1999) tt0177789
 92. Mad Max 2 The Road Warrior (1981) tt0082694
@@ -116,43 +116,43 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 109. Memento (2000) tt0209144
 110. Deadpool (2016) tt1431045
 111. Demolition Man (1993) tt0106697
-112. JCVD (2008) tt1130988
-113. Avengers Age of Ultron (2015) tt2395427
+112. Avengers Age of Ultron (2015) tt2395427
+113. JCVD (2008) tt1130988
 114. Inglourious Basterds (2009) tt0361748
-115. District 9 (2009) tt1136608
-116. Apollo 13 (1995) tt0112384
-117. Looper (2012) tt1276104
+115. Looper (2012) tt1276104
+116. District 9 (2009) tt1136608
+117. Apollo 13 (1995) tt0112384
 118. The Maltese Falcon (1941) tt0033870
-119. The Bourne Ultimatum (2007) tt0440963
-120. Layer Cake (2004) tt0375912
-121. Captain America The Winter Soldier (2014) tt1843866
-122. Monty Python The Life of Brian (1979) tt0079470
-123. Robin Hood Men In Tights (1993) tt0107977
+119. Captain America The Winter Soldier (2014) tt1843866
+120. The Bourne Ultimatum (2007) tt0440963
+121. Layer Cake (2004) tt0375912
+122. Robin Hood Men In Tights (1993) tt0107977
+123. Monty Python The Life of Brian (1979) tt0079470
 124. Toy Story 2 (1999) tt0120363
 125. 21 Jump Street (2012) tt1232829
-126. Willy Wonka and the Chocolate Factory (1971) tt0067992
-127. Casablanca (1942) tt0034583
+126. Casablanca (1942) tt0034583
+127. Willy Wonka and the Chocolate Factory (1971) tt0067992
 128. 10 Cloverfield Lane (2016) tt1179933
 129. Ant-Man (2015) tt0478970
 130. From Up on Poppy Hill (2011) tt1798188
-131. Jack Brooks Monster Slayer (2007) tt0816539
-132. The Wrestler (2008) tt1125849
-133. WarGames (1983) tt0086567
+131. WarGames (1983) tt0086567
+132. Jack Brooks Monster Slayer (2007) tt0816539
+133. The Wrestler (2008) tt1125849
 134. Mad Max Fury Road (2015) tt1392190
 135. Big Trouble (2002) tt0246464
 136. The Fox and the Hound (1981) tt0082406
-137. The Core (2003) tt0298814
-138. Dr  Strangelove (1964) tt0057012
-139. Wreck it Ralph (2012) tt1772341
-140. Cool Runnings (1993) tt0106611
-141. The Terminator (1984) tt0088247
-142. Spider-Man 2 (2004) tt0316654
-143. Lara Croft Tomb Raider (2001) tt0146316
-144. Captain America The First Avenger (2011) tt0458339
-145. Super 8 (2011) tt1650062
-146. Ghostbusters 2 (1989) tt0097428
-147. The Hudsucker Proxy (1994) tt0110074
-148. Up (2009) tt1049413
+137. Dr  Strangelove (1964) tt0057012
+138. Wreck it Ralph (2012) tt1772341
+139. Cool Runnings (1993) tt0106611
+140. The Terminator (1984) tt0088247
+141. Spider-Man 2 (2004) tt0316654
+142. Lara Croft Tomb Raider (2001) tt0146316
+143. Captain America The First Avenger (2011) tt0458339
+144. Super 8 (2011) tt1650062
+145. Ghostbusters 2 (1989) tt0097428
+146. The Hudsucker Proxy (1994) tt0110074
+147. Up (2009) tt1049413
+148. The Core (2003) tt0298814
 149. Spirited Away (2001) tt0245429
 150. The Incredibles (2004) tt0317705
 151. Catch Me If You Can (2002) tt0264464
@@ -161,14 +161,14 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 154. The Boondock Saints (1999) tt0144117
 155. Ladyhawke (1985) tt0089457
 156. Rogue One (2016) tt3748528
-157. Pulp Fiction (1994) tt0110912
-158. Garden State (2004) tt0333766
+157. Garden State (2004) tt0333766
+158. Pulp Fiction (1994) tt0110912
 159. Slumdog Millionaire (2008) tt1010048
-160. Moon (2009) tt1182345
-161. The Social Network (2010) tt1285016
-162. Chronicle (2012) tt1706593
-163. Rush Hour (1998) tt0120812
-164. 50 First Dates (2004) tt0343660
+160. The Social Network (2010) tt1285016
+161. Chronicle (2012) tt1706593
+162. Moon (2009) tt1182345
+163. 50 First Dates (2004) tt0343660
+164. Rush Hour (1998) tt0120812
 165. The Raid Redemption (2011) tt1899353
 166. Spider-Man (2002) tt0145487
 167. Kiss Kiss Bang Bang (2005) tt0373469
@@ -204,8 +204,8 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 197. Ghost in the Shell (1995) tt0113568
 198. Kill Bill Vol 1 (2003) tt0266697
 199. Manchester by the Sea (2016) tt4034228
-200. Limitless (2011) tt1219289
-201. The Iron Giant (1999) tt0129167
+200. The Iron Giant (1999) tt0129167
+201. Limitless (2011) tt1219289
 202. Paycheck (2003) tt0338337
 203. In Bruges (2008) tt0780536
 204. Django Unchained (2012) tt1853728
@@ -236,8 +236,8 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 229. Monsters Inc (2001) tt0198781
 230. Idiocracy (2006) tt0387808
 231. Score A Hockey Musical (2010) tt1592876
-232. Batman Begins (2005) tt0372784
-233. Napoleon Dynamite (2004) tt0374900
+232. Napoleon Dynamite (2004) tt0374900
+233. Batman Begins (2005) tt0372784
 234. Snowpiercer (2013) tt1706620
 235. Fantastic Mr Fox (2009) tt0432283
 236. Elf (2003) tt0319343
@@ -245,8 +245,8 @@ rating system](https://en.wikipedia.org/wiki/Elo_rating_system).
 238. RoboCop (1987) tt0093870
 239. When Harry Met Sally (1989) tt0098635
 240. Cloverfield (2008) tt1060277
-241. The Bourne Supremacy (2004) tt0372183
-242. Big Hero 6 (2014) tt2245084
+241. Big Hero 6 (2014) tt2245084
+242. The Bourne Supremacy (2004) tt0372183
 243. The Dark Knight Rises (2012) tt1345836
 244. Her (2013) tt1798709
 245. Jackie (2016) tt1619029
