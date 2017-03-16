@@ -1,4 +1,5 @@
 Hot Fuzz (2007) tt0425112
+The Shawshank Redemption (1994) tt0111161
 500 Days of Summer (2009) tt1022603
 Avengers Age of Ultron (2015) tt2395427
 Three Days of the Condor (1975) tt0073802
@@ -6,3 +7,4 @@ Django Unchained (2012) tt1853728
 Stargate (1994) tt0111282
 The Kings Speech (2010) tt1504320
 Princess Mononoke (1997) tt0119698
+The Sword in the Stone (1963) tt0057546
