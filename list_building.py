@@ -16,7 +16,7 @@ def health(graph):
     return health
 
 
-def build_list(graph, rankings, length=10, ):
+def build_list(graph, rankings, length=10):
     rankings_dict = {r['player']: r['score'] for r in rankings}
     graph_len = len(graph)
 
@@ -34,4 +34,5 @@ def build_list(graph, rankings, length=10, ):
         movies.add(key)
         del graph[key]
 
-    return sorted(list(movies), key=lambda m: rankings_dict[m], reverse=True)
+    return sorted(
+        list(movies), key=lambda m: rankings_dict.get(m, 1000), reverse=True)
