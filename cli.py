@@ -39,7 +39,7 @@ def main():
 
     else:
         for i, r in enumerate(rankings):
-            print('#{} - {} (~{})'.format(i + 1, r['player'], r['score']))
+            print('#{} - {} (rlo {})'.format(i + 1, r['player'], r['score']))
 
 
 if __name__ == "__main__":
