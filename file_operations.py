@@ -17,7 +17,7 @@ def write_readme(top, ftext='readme_text.md'):
         f.write('\n')
 
         for i, r in enumerate(top):
-            f.write('{}. {}\n'.format(i + 1, r['player']))
+            f.write('1. {}\n'.format(r['player']))
 
 
 def load_lists(folder='rankings'):
