@@ -10,6 +10,7 @@
 A Beautiful Mind (2001) tt0268978
 A Charlie Brown Christmas (1965) tt0059026
 A Christmas Story (1983) tt0085334
+A Clockwork Orange (1971) tt0066921
 Accepted (2006) tt0384793
 Air Guitar Nation (2006) tt0799915
 Airplane (1980) tt0080339
@@ -27,6 +28,7 @@ Army Of Darkness (1992) tt0106308
 Arrival (2016) tt2543164
 Attack the Block (2011) tt1478964
 Avengers Age of Ultron (2015) tt2395427
+Baby Driver (2017) tt3890160
 Back to the Future (1985) tt0088763
 Back to the Future Part II (1989) tt0096874
 Back to The Future Part III (1990) tt0099088
@@ -88,6 +90,7 @@ Enchanted (2007) tt0461770
 Escape from New York (1981) tt0082340
 ET The Extra-Terrestrial (1982) tt0083866
 Eternal Sunshine of the Spotless Mind (2004) tt0338013
+Ex Machina (2014) tt0470752
 Falling Down (1993) tt0106856
 Fantastic Beasts and Where to Find Them (2016) tt3183660
 Fantastic Mr Fox (2009) tt0432283
@@ -102,6 +105,7 @@ Finding Nemo (2003) tt0266543
 Florence Foster Jenkins (2016) tt4136084
 Four Lions (2010) tt1341167
 From Up on Poppy Hill (2011) tt1798188
+Frozen (2013) tt2294629
 Galaxy Quest (1999) tt0177789
 Garden State (2004) tt0333766
 Ghost in the Shell (1995) tt0113568
@@ -110,9 +114,11 @@ Ghostbusters (1984) tt0087332
 Ghostbusters 2 (1989) tt0097428
 God Bless America (2011) tt1912398
 Godzilla (1998) tt0120685
+Godzilla (2014) tt0831387
 Gravity (2013) tt1454468
 Groundhog Day (1993) tt0107048
 Guardians Of The Galaxy (2014) tt2015381
+Guardians of the Galaxy Vol. 2 (2017) tt3896198
 Hackers (1995) tt0113243
 Hanna (2011) tt0993842
 Harvey (1950) tt0042546
@@ -199,12 +205,14 @@ Mystery Team (2009) tt1237838
 Napoleon Dynamite (2004) tt0374900
 National Treasure (2004) tt0368891
 Network (1976) tt0074958
+Notting Hill (1999) tt0125439
 O Brother Where Art Thou (2000) tt0190590
 Ocean's Eleven (2001) tt0240772
 Ocean's Thirteen (2007) tt0496806
 Ocean's Twelve (2004) tt0349903
 Office Space (1999) tt0151804
 Oldboy (2003) tt0364569
+Pacific Rim (2013) tt1663662
 Paycheck (2003) tt0338337
 Peter Pan (1953) tt0046183
 Pinocchio (1940) tt0032910
@@ -234,6 +242,7 @@ Sherlock Holmes (2009) tt0988045
 Sherlock Holmes A Game of Shadows (2011) tt1515091
 Shoot 'Em Up (2007) tt0465602
 Sky Captain and the World of Tomorrow (2004) tt0346156
+Skyfall (2012) tt1074638
 Sleeping Beauty (1959) tt0053285
 Slumdog Millionaire (2008) tt1010048
 Snow White And The Seven Dwarfs (1937) tt0029583
@@ -248,12 +257,14 @@ Spider-Man 2 (2004) tt0316654
 Spider-Man 3 (2007) tt0413300
 Spirited Away (2001) tt0245429
 Star Trek Beyond (2016) tt2660888
+Star Trek Into Darkness (2013) tt1408101
 Star Wars Episode IV A New Hope (1977) tt0076759
 Star Wars Episode V The Empire Strikes Back (1980) tt0080684
 Star Wars Episode VI Return of the Jedi (1983) tt0086190
 Star Wars Episode VII The Force Awakens (2015) tt2488496
 Stardust (2007) tt0486655
 Stargate (1994) tt0111282
+Suicide Squad (2016) tt1386697
 Sunshine (2007) tt0448134
 Super 8 (2011) tt1650062
 Super Troopers (2001) tt0247745
@@ -314,6 +325,7 @@ The Lost World Jurassic Park (1997) tt0119567
 The Maltese Falcon (1941) tt0033870
 The Man From UNCLE (2015) tt1638355
 The Martian (2015) tt3659388
+The Master (2012) tt1560747
 The Matrix (1999) tt0133093
 The Matrix Reloaded (2003) tt0234215
 The Matrix Revolutions (2003) tt0242653
@@ -321,6 +333,7 @@ The Meaning of Life (1983) tt0085959
 The Monster Squad (1987) tt0093560
 The Muppets (2011) tt1204342
 The Nice Guys (2016) tt3799694
+The Notebook (2004) tt0332280
 The Parent Trap (1998) tt0120783
 The Prestige (2006) tt0482571
 The Princess and the Frog (2009) tt0780521
